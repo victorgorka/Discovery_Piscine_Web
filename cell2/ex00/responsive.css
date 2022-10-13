@@ -1,0 +1,12 @@
+    body{
+        margin:0;
+    }
+    .center{
+        margin:0;
+        width: 100%;
+        height: 100vh;
+    }
+    .cell{
+        margin-left: 50%;
+        width:50%;
+    }
